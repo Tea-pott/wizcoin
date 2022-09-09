@@ -26,3 +26,5 @@ Contribute
 ----------
 
 If you'd like to contribute to WizCoin, check out https://github.com/Tea-pott/wozcoin
+
+Change 1
