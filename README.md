@@ -29,3 +29,4 @@ If you'd like to contribute to WizCoin, check out https://github.com/Tea-pott/wo
 
 Change 1
 Change 2
+Change 3
